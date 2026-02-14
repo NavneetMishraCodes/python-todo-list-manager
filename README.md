@@ -28,10 +28,9 @@ This project helps beginners practice:
 
 ### 📁 Project Structure
 todo-list-manager/
-│
-├── main_file.py        # Main program loop  
-├── functions.py        # All task operations  
-├── tasks_history.txt   # File where tasks are stored  
+- main_file.py        # Main program loop  
+- functions.py        # All task operations  
+- tasks_history.txt   # File where tasks are stored  
 
 ---
 
